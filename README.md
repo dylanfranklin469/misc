@@ -30,4 +30,6 @@
 **Expectation**
 -The pendulum will gain a slight increase in energy which will initially increase the acceleration, but after multiple cycles the acceleration will remain consistent with the second derivative of a periodic function.
 
+## Commits ##
+![Commits](Commits.png)
 
