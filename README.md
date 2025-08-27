@@ -1,31 +1,33 @@
 # Pendulum Expectations #
 ## Expectations with extreme drive frequency ##
 
-Assumptions
+**Assumptions**
 1. Rigid
-2. Ideal pendulum
+2. Simple pendulum *[Formula](https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/16%3A_Oscillatory_Motion_and_Waves/16.04%3A_The_Simple_Pendulum)*
 3. Frequency of drive ($\omega_d$) $»or«$ Natural Frequency ($\omega_0$) 
    * $\omega_0 = \sqrt(g/L)$
 4. Amplitude « pendulum size
 5. Mass is dropped around $\theta \approx 90\degree$
 
 
-Expectation
+**Expectation**
 - I believe that the outcome is dependent on if $\omega_d$ and $\omega_0$ are in phase over time due to constructive and destructive interference.
 
 ## Expectations with equilibrium displacement and nonstatic pivot
 
-Assumptions
+**Assumptions**
 1. The pivot point will abruptly stop at maximum displacement
-2. Ideal pendulum
+2. Simple pendulum
 3. Typical X & Y coordinate system
 
-Expectation
+**Expectation**
 - The mass will gain slight acceleration during the period when the pivot point moves down, leading to the displacement angle to be elevated. This could be seen as a mechanical increase of energy in the system.
 
 ## Pendulum oriented at unstable equilibrium angle with downward pivot point motion
-Assumptions
-
-Expectation
+**Assumptions**
+- Simple pendulum
+- Connecting "string" is massless, yet rigid
+**Expectation**
+-The pendulum will gain a slight increase in energy which will initially increase the acceleration, but after multiple cycles the acceleration will remain consistent with the second derivative of a periodic function.
 
 
